@@ -1,0 +1,11 @@
+# Playwright
+**/playwright-report/
+**/playwright/.cache/
+**/node_modules/
+*/results.xml
+**/test-results/
+**/test-reports/
+**/test-logs/
+**/test-artefacts/
+**/playwright-report/
+**/playwright/.cache/
